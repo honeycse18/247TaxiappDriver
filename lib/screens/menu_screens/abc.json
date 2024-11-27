@@ -1,0 +1,42 @@
+
+{"error": false,
+"msg": "fetched successfully",
+"date":" 02 September 2024",
+"data": [
+    {
+        "slot": "1",
+        "patti": "125",
+        "card": "8"
+    },
+    {
+        "slot": "2",
+        "patti": "379",
+        "card": "9"
+    },
+    {
+        "slot": "3",
+        "patti": "268",
+        "card": "6"
+    },
+    {
+        "slot": "4",
+        "patti": "799",
+        "card": "5"
+    },
+    {
+        "slot": "5",
+        "patti": "589",
+        "card": "2"
+    },
+    {
+        "slot": "6",
+        "patti": "235",
+        "card": "0"
+    },
+    {
+        "slot": "7",
+        "patti": "345",
+        "card": "2"
+    }
+]
+}
